@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tristan-8121
+- 👀 I’m interested in embedded
+- 🌱 I’m currently learning: Embedded, Systems Enginner
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: No....
